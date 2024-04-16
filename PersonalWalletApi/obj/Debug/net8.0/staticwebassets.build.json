@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EvgINIT2tZ/3JVobnWbxEVeCkWu1DPjDgkjo99pwxxg=",
+  "Source": "PersonalWalletApi",
+  "BasePath": "_content/PersonalWalletApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
